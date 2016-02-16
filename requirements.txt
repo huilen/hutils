@@ -1,0 +1,3 @@
+requests==2.9.1
+xxhash==0.4.3
+mock==1.3.0
